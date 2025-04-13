@@ -1,0 +1,12 @@
+C:\Users\Vladi\Desktop\ValheimMods\AllStarsMobs\AllStarsMobs\bin\Debug\AllStarsMobs.dll
+C:\Users\Vladi\Desktop\ValheimMods\AllStarsMobs\AllStarsMobs\bin\Debug\AllStarsMobs.pdb
+C:\Users\Vladi\Desktop\ValheimMods\AllStarsMobs\AllStarsMobs\bin\Debug\0Harmony.dll
+C:\Users\Vladi\Desktop\ValheimMods\AllStarsMobs\AllStarsMobs\bin\Debug\assembly_valheim.dll
+C:\Users\Vladi\Desktop\ValheimMods\AllStarsMobs\AllStarsMobs\bin\Debug\BepInEx.dll
+C:\Users\Vladi\Desktop\ValheimMods\AllStarsMobs\AllStarsMobs\bin\Debug\UnityEngine.CoreModule.dll
+C:\Users\Vladi\Desktop\ValheimMods\AllStarsMobs\AllStarsMobs\bin\Debug\UnityEngine.dll
+C:\Users\Vladi\Desktop\ValheimMods\AllStarsMobs\AllStarsMobs\obj\Debug\AllStarsMobs.csproj.AssemblyReference.cache
+C:\Users\Vladi\Desktop\ValheimMods\AllStarsMobs\AllStarsMobs\obj\Debug\AllStarsMobs.csproj.CoreCompileInputs.cache
+C:\Users\Vladi\Desktop\ValheimMods\AllStarsMobs\AllStarsMobs\obj\Debug\AllStars.49CC2E54.Up2Date
+C:\Users\Vladi\Desktop\ValheimMods\AllStarsMobs\AllStarsMobs\obj\Debug\AllStarsMobs.dll
+C:\Users\Vladi\Desktop\ValheimMods\AllStarsMobs\AllStarsMobs\obj\Debug\AllStarsMobs.pdb
