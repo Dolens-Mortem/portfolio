@@ -1,24 +1,13 @@
-# Импорт disnake
 import disnake
 from disnake.ext import commands
 
-
-
-# Сам бот
 bot = commands.Bot(command_prefix=commands.when_mentioned, help_command=None, intents=disnake.Intents.all(), test_guilds=[870303650596155464])
 
-
-
-# Список плохих слов
 CENSORED_WORDS = ["пицца с ананасом"]
 
-
-
-# Пишет в консоли при активации бота
 @bot.event
 async def on_ready():
     print(f"{bot.user} is online")
-
 
 @bot.event
 async def on_message(message):
@@ -26,12 +15,8 @@ async def on_message(message):
     for content in message.content.split():
         for censor in CENSORED_WORDS:
             if content.lower() == censor:
-                # Удаление сообщения
                 await message.delete()
-
-                # Обращение к нарушителю
                 await message.channel.send(f"{message.author.mention} такие сообщения запрещены!")
-
 
 @bot.event
 async def on_command_error(ctx, error):
